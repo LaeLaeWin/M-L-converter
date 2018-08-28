@@ -101,5 +101,13 @@ def about():
 def work():
     return render_template('work.html')
 
+@app.route('/question')
+def question():
+    return render_template('question.html')
+
+@app.route('/conclusion')
+def conclusion():
+    return render_template('conclusion.html')
+
 if __name__ == '__main__':
     app.run(debug=True)

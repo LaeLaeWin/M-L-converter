@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60e5a667-a6b9-4c17-a633-650bc983ef14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UniToWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniToZg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WinToUni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZgToUni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZgToUni/ZgToUni.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZgToUni/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZgToUni/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZgToUni/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZgToUni/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/unitowin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/unitozg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/wintouni.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/wintozg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/zgtouni.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/zgtowin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/utow.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/utow.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/utoz.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/utoz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/wtou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/wtou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/wtoz.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/wtoz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ztou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ztou.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ztow.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ztow.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,14 +70,26 @@
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
+    <session id="145562540">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="58" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="86" column="15" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
+            <state relative-caret-position="275">
+              <caret line="109" column="38" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
               <folding>
                 <element signature="e#1#60#0" expanded="true" />
               </folding>
@@ -137,7 +127,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/ztow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="1530">
               <caret line="90" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
@@ -174,7 +164,7 @@
         <entry file="file://$PROJECT_DIR$/templates/wtou.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1037">
-              <caret line="61" column="96" selection-start-line="61" selection-start-column="96" selection-end-line="61" selection-end-column="96" />
+              <caret line="61" column="68" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -203,12 +193,12 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/ztou.html" />
         <option value="$PROJECT_DIR$/templates/wtou.html" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/static/js/unitozg.js" />
         <option value="$PROJECT_DIR$/templates/utow.html" />
         <option value="$PROJECT_DIR$/templates/utoz.html" />
         <option value="$PROJECT_DIR$/templates/wtoz.html" />
         <option value="$PROJECT_DIR$/templates/ztow.html" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -229,7 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,6 +246,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,6 +306,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24590164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -392,6 +383,16 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/unizg.js" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="109" column="38" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
+          <folding>
+            <element signature="e#1#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/unitowin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -410,6 +411,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="25" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ztow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
@@ -437,7 +445,7 @@
     <entry file="file://$PROJECT_DIR$/templates/wtou.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
-          <caret line="61" column="96" selection-start-line="61" selection-start-column="96" selection-end-line="61" selection-end-column="96" />
+          <caret line="61" column="68" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -447,23 +455,6 @@
           <caret line="90" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/ztow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="86" column="15" selection-start-line="86" selection-start-column="15" selection-end-line="86" selection-end-column="15" />
-          <folding>
-            <element signature="e#1#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
